@@ -1,3 +1,5 @@
+vercel deployment : https://tugas-praktek-uji-kompetensi-k7o4.vercel.app/
+
 Cara menjalankan aplikasi
 
 1. Clone repository dengan perintah git clone https://github.com/Erfin-FlyingCow/TugasPraktek_UJI-Kompetensi.git.
